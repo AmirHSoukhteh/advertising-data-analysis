@@ -59,7 +59,7 @@ advertising-analysis/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/advertising-analysis.git
+git clone https://github.com/AmirHSoukhteh/advertising-analysis.git
 cd advertising-analysis
 ```
 
